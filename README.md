@@ -1,6 +1,13 @@
-# recoui
+# Recommender System
 
 ## Project setup
+
+# Clone Repo
+
+```
+cd <project_folder>
+```
+
 ```
 npm install
 ```
